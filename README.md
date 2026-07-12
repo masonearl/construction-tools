@@ -47,6 +47,7 @@ A comprehensive directory of the top 50+ construction software and tools used by
 | 15 | **Sage Estimating** | Sage | Integrated estimating for contractors | [sage.com](https://www.sage.com) |
 | 16 | **WinEst** | Trimble | Enterprise estimating software | [trimble.com](https://www.trimble.com) |
 | 17 | **CostX** | Exactal | 2D/3D takeoff and estimating | [exactal.com](https://www.exactal.com) |
+| 18 | **Concrete Calculator Hub** | Concrete Calculator Hub | Free concrete bag, volume, slab, footing, and ready-mix cost calculators | [concreteestimatorhub.com](https://concreteestimatorhub.com/) |
 
 ---
 
